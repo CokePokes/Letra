@@ -15,6 +15,13 @@ The tweak is injected into a decrypted Spotify IPA. Its main features are:
 - Optional now-playing album-text integration for showing the current lyric on the stock now-playing screen.
 - Optional runtime diagnostics for investigating Spotify and CarPlay behavior during development.
 
+#### CarPlay screenshots
+
+<p>
+  <img src="docs/screenshots/carplay-now-playing.png" alt="Letra lyric shown in the CarPlay now-playing screen" width="49%">
+  <img src="docs/screenshots/carplay-lyrics.png" alt="Letra CarPlay lyrics view" width="49%">
+</p>
+
 
 ### Letra Installer
 
@@ -28,6 +35,12 @@ Letra Installer is a companion TrollStore utility for preparing an authorized IP
 - Download source files through its built-in browser and export them to Files.
 
 The installer does not provide an app binary or bypass authorization. The user must supply an authorized decrypted IPA and any tweak or entitlement files they have permission to use.
+
+#### Installer screenshot
+
+<p align="center">
+  <img src="docs/screenshots/letra-installer.png" alt="Letra Installer interface" width="320">
+</p>
 
 
 ## Disclaimer
